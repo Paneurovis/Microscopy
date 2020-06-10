@@ -1,6 +1,6 @@
-# AI-enabled Microscopic Pathology
-## This is a folder on our work utilizing microscopy for AI-enabled automated pathology.
-## Test various detectors for blood based diagnosis.
+# AI-enabled Automated Microscopic Pathology
+
+## 1.Test various detectors for blood based diagnosis.
 
 ### Test Results on COVID-19 Samples
 
