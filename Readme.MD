@@ -1,3 +1,9 @@
-This is a folder on our work utilizing microscopy for AI-enabled automated pathology.
+# This is a folder on our work utilizing microscopy for AI-enabled automated pathology.
 
-Test various detectors for blood based diagnosis.
+# Test various detectors for blood based diagnosis.
+
+# Test Results on COVID-19 Samples
+![alt text](https://github.com/PerceptualScience/microPathology/COVID-19/covid01.png)
+![alt text](https://github.com/PerceptualScience/microPathology/COVID-19/covid02.png)
+![alt text](https://github.com/PerceptualScience/microPathology/COVID-19/covid03.png)
+![alt text](https://github.com/PerceptualScience/microPathology/COVID-19/covid04.png)
